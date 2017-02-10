@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20DaysWith1Peter</string>
+    <string name="title">20 Days with 1 Peter</string>
+    <string name="previous">PREVIOUS SESSIONS</string>
+    <string name="today">TODAY’S DEVOTIONAL</string>
+    <string name="contact">CONTACT US </string>
+    <string name="home">HOME </string>
+    <string name="previus_title">Select from below to play a previous session</string>
+</resources>
